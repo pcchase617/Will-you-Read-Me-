@@ -11,47 +11,47 @@
     ###  * [EmailAddress](#address)
     ## Description
     ### You must have a description for this app to function:
-    ### This project is about designing a ReadMe generator
+    ### designing a readme
     ## Installation:
     ### You must install the following for this app to function:
-    ### To Install you should download VS Code, npm init, and package.json
+    ### npm init, VS code and anything
     ## Usage:
-    ### The use of this app is to create a ReadMe for future projects
+    ### to be able to use for future readmes
     ## Contributors:
-    ### A list of who contributed to the project
+    ### chase, chad, erik, nick, liberato
     ## Tests:
     ### Run the following commands in your terminal to test this app:
-    ### You test the project by running "node index" and answering the following prompt. Then previewing the test.md
+    ### npm test, npm start
     ## License:
     ### License you will use for this app:
     ### Apache
     ## Questions:
     ### If you have any questions, you may contact me at either
-    ### Github: https://github.com/pcchase617
+    ### Github: https://github.com/chad
     ### or
-    ### Email: example@gmail.com
+    ### Email: chadtao@gmail.com
 
 # ReadMe
     Readme
 
 
-# This project is about designing a ReadMe generator
+# designing a readme
     Description
 
 
-# To Install you should download VS Code, npm init, and package.json
+# npm init, VS code and anything
     Installation Instructions
 
 
-# The use of this app is to create a ReadMe for future projects
+# to be able to use for future readmes
     Usage Information
 
 
-# A list of who contributed to the project
+# chase, chad, erik, nick, liberato
     Contribution Guidlines
 
 
-# You test the project by running "node index" and answering the following prompt. Then previewing the test.md
+# npm test, npm start
     Test Instructions
 
 
@@ -59,9 +59,9 @@
     License
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-# pcchase617
-    ### Github: https://github.com/pcchase617
+# chad
+    ### Github: https://github.com/chad
 
 
-# example@gmail.com
+# chadtao@gmail.com
     Email      
