@@ -7,7 +7,7 @@ Repository:
 https://github.com/pcchase617/Will-you-Read-Me-
 
 Site Preview:
-https://raw.githubusercontent.com/pcchase617/Will-you-Read-Me-/main/ReadMe%20Generator.PNG
+![alt text](https://raw.githubusercontent.com/pcchase617/Will-you-Read-Me-/main/ReadMe%20Generator.PNG)
 
 Design a ReadMe Generator that provides back questions to which you will answer
 
