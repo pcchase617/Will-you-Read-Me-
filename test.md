@@ -11,57 +11,57 @@
     ###  * [EmailAddress](#address)
     ## Description
     ### You must have a description for this app to function:
-    ### cat
+    ### This project is about designing a ReadMe generator
     ## Installation:
     ### You must install the following for this app to function:
-    ### cat
+    ### To Install you should download VS Code, npm init, and package.json
     ## Usage:
-    ### cat
+    ### The use of this app is to create a ReadMe for future projects
     ## Contributors:
-    ### cat
+    ### A list of who contributed to the project
     ## Tests:
     ### Run the following commands in your terminal to test this app:
-    ### cat
+    ### You test the project by running "node index" and answering the following prompt. Then previewing the test.md
     ## License:
     ### License you will use for this app:
-    ### GNU
+    ### Apache
     ## Questions:
     ### If you have any questions, you may contact me at either
-    ### Github: https://github.com/cat
+    ### Github: https://github.com/pcchase617
     ### or
-    ### Email: cat
+    ### Email: example@gmail.com
 
-# cat
+# ReadMe
     Readme
 
 
-# cat
+# This project is about designing a ReadMe generator
     Description
 
 
-# cat
+# To Install you should download VS Code, npm init, and package.json
     Installation Instructions
 
 
-# cat
+# The use of this app is to create a ReadMe for future projects
     Usage Information
 
 
-# cat
+# A list of who contributed to the project
     Contribution Guidlines
 
 
-# cat
+# You test the project by running "node index" and answering the following prompt. Then previewing the test.md
     Test Instructions
 
 
-# GNU
+# Apache
     License
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-# cat
-    ### Github: https://github.com/cat
+# pcchase617
+    ### Github: https://github.com/pcchase617
 
 
-# cat
+# example@gmail.com
     Email      
